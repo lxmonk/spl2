@@ -1,0 +1,3 @@
+This folder holds SmallTalk classes which delegate Java classes.
+These are the only classes that are allowed to recieve non-Smalltalk
+argument for the getInstance. 
